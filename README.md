@@ -5,9 +5,6 @@
   
 <table align="right">
   <tr>
-   <td align="center" col-span=3><img src="https://i.ibb.co/6XpKv1V/profile-png.png" width="150px" height="150px" /></th>
-  </tr>
-  <tr>
   <td align="center" col-span=3><a href="https://github.com/Jafagervik">Jafagervik</a></td>
   </tr>
   <tr>
