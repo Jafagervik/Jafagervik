@@ -8,10 +8,10 @@
    <td align="center" col-span=3><img src="https://i.ibb.co/6XpKv1V/profile-png.png" width="150px" height="150px" /></th>
   </tr>
   <tr>
-  <td align="center" col-span=3><a href="https://github.com/knight-byte">Knight-Byte</a></td>
+  <td align="center" col-span=3><a href="https://github.com/Jafagervik">Jafagervik</a></td>
   </tr>
   <tr>
-  <td><a href="https://github.com/knight-byte"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="24px" height="24px"></a> <a href="https://www.instagram.com/_.masterofnothing._/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="24px" height="24px"> <a href="https://www.codewars.com/users/knight-byte"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" width="24px" height="24px"></a><a href="https://www.hackerrank.com/Abunachar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" width="24px" height="24px"></a>
+  <td><a href="https://github.com/jafagervik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="24px" height="24px"></a> <a href="https://www.instagram.com/jafagervik/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="24px" height="24px"> <a href="https://www.codewars.com/users/Jafagervik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" width="24px" height="24px"></a><a href="https://www.hackerrank.com/Jafagervik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" width="24px" height="24px"></a>
 <a href="https://t.me/abunachar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="24px" height="24px"></a></td>
   </tr>
  </table>
