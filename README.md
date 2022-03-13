@@ -12,7 +12,7 @@
   </tr>
   <tr>
   <td><a href="https://github.com/jafagervik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="24px" height="24px"></a> <a href="https://www.instagram.com/jafagervik/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="24px" height="24px"> <a href="https://www.codewars.com/users/Jafagervik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" width="24px" height="24px"></a><a href="https://www.hackerrank.com/Jafagervik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" width="24px" height="24px"></a>
-<a href="https://t.me/abunachar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="24px" height="24px"></a></td>
+<a href="https://t.me/Jafagervik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" width="24px" height="24px"></a></td>
   </tr>
  </table>
  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap" rel="stylesheet">
@@ -23,8 +23,8 @@
   white-space: -o-pre-wrap;
   word-wrap: break-word;">
 - 🔭 I’m currently working on   ...   <b>Deep learning, Graphics and Algorithms</b><br>
-- 🌱 I’m currently learning     ...   <b>Rustlang</b><br>
-- 🤔 I’m looking for help with  ...   <b>Web Development</b><br>
+- 🌱 I’m currently learning     ...   <b>Rust and CV</b><br>
+- 🤔 I’m looking for help with  ...   <b>Computer Vision and Advanced Rust</b><br>
 - 💬 Ask me about               ...   <b>Programming and Computer Vision in general</b><br>
  </pre>
 
@@ -37,7 +37,7 @@
 <a href="" target="_blank"><img height="38" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg"/></a>
 <a href="https://www.python.org/" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg"></a>
-<a href="" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nvim.svg"></a>
+<a href="" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vim.svg"></a>
 
 
 ## &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Some stats about Jafagervik <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
