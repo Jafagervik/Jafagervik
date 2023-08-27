@@ -1,7 +1,7 @@
 <h1 align=center> Hi there, I'm Jørgen</h1>
-<h3 align="center">HPC and AI student from Norway</h3>
+<h3 align="center">Ms.C in HPC and AI student from Norway</h3>
 
-- 🔭 I’m currently working on [kaffe](github.com/Jafagervik/kaffe)
+- 🔭 I’m currently working on [Distributed Evolutionary Algorithms](github.com/Jafagervik/ea_hpc)
 
 - 🌱 I’m currently learning **Advanced pytorch, Rust, Zig and GPU programming**
 
