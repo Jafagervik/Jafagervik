@@ -1,6 +1,8 @@
 <h1 align=center> Hi there, I'm Jørgen</h1>
 <h3 align="center">Ms.C in HPC and AI student from Norway</h3>
 
+![image](https://github.com/Jafagervik/Jafagervik/assets/20770505/f6ded266-b48d-4f40-b6ef-ca47712d9fe2)
+
 ### - I like to program massive parallel systems as well as some AI on the side
 
 ### - Languages 🔭
