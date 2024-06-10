@@ -1,7 +1,7 @@
 <h1 align=center> Hi there, I'm Jørgen</h1>
 <h3 align="center">Ms.C in HPC and AI student from Norway</h3>
 
-### - I like to [KISS](https://en.wikipedia.org/wiki/KISS_principle)
+### - I like to program massive parallel systems as well as some AI on the side
 
 ### - Languages 🔭
 <p align="center" >
